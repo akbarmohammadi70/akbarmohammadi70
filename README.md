@@ -58,7 +58,6 @@ Expertise: Micro Service Management, CI/CD automation, Build/Release Management,
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
-
 ![Mssql](https://img.shields.io/badge/-Mssql-000?&logo=Mssql&logoColor=47A248)
 
 
