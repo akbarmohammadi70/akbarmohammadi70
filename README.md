@@ -16,7 +16,7 @@ Expertise: Micro Service Management, CI/CD automation, Build/Release Management,
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbar-mohammadi-12741616b/i)
 [![Telegram](https://img.shields.io/badge/Channel-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/Devops_Sysadmin_IT) 
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:akbar.mohammadi70@gmail.com)
-[![Yahoo](https://img.shields.io/badge/yahoo-%230077B5.svg?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:akbar.mohammadi70@gmail.com)
+[![Yahoo](https://img.shields.io/badge/yahoo-%230077B5.svg?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:akbar.mohammadi70@yahoo.com)
 
 
 ## Core Competencies and Skills
