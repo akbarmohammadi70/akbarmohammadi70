@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=akbarmohammadi)
 
-Platform Architect, DevOps lead and International DevOps Mentor With more than 17 years of experience in software development, high performance, distributed systems, big data infrastructure, and Cutting edge orchestrates.
+DevOps Engineer With more than 5 years of experience in software development, high performance, distributed systems, big data infrastructure, and Cutting edge orchestrates.
 
-Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Cloud Architecture, Data warehousing, Data Pipelines, ETL, Application Containerize and Orchestrates with Kubernetes and Python.
+Expertise: Micro Service Management, CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Cloud Architecture, Data warehousing, Data Pipelines, Application Containerize and Orchestrates with Kubernetes and Python.
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=AkbarMohammadi&include_all_commits=true&theme=merko) -->
   <img src="https://github-readme-stats.vercel.app/api?username=AkbarMohammadi&show_icons=true&theme=dark"/> 
