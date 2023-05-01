@@ -33,6 +33,9 @@ Expertise: Micro Service Management, CI/CD automation, Build/Release Management,
 - Grafana - Prometheus - ELK - CloudWatch - InfluxDB - Zabbix
 - Airflow
 - Hadoop cluster
+- Vmware
+- Linux
+- Windows
 
 ### Cloud Skills:
 
