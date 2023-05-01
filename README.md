@@ -4,11 +4,10 @@
 
 DevOps Engineer With more than 5 years of experience in software development, high performance, distributed systems, big data infrastructure, and Cutting edge orchestrates.
 
-Expertise: Micro Service Management, CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Cloud Architecture, Data warehousing, Data Pipelines, Application Containerize and Orchestrates with Kubernetes and Python.
+Expertise: Micro Service Management, CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Cloud Architecture, Application Containerize and Orchestrates with Kubernetes and Python.
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=akbarmohammadi70&amp;show_icons=true" alt="GitHub Stats"></p>
-
 
 
 ### find me here
@@ -32,9 +31,6 @@ Expertise: Micro Service Management, CI/CD automation, Build/Release Management,
 - Jenkins - ArgoCD - Gitlab CI/CD - Azure DevOps
 - Redis - Kafka
 - Grafana - Prometheus - ELK - CloudWatch - InfluxDB - Zabbix
-
-### DataOps Skills:
-
 - Airflow
 - Hadoop cluster
 
