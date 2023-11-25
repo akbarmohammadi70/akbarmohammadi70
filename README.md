@@ -6,10 +6,6 @@ DevOps Engineer With more than 5 years of experience in software development, hi
 
 Expertise: Micro Service Management, CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Cloud Architecture, Application Containerize and Orchestrates with Kubernetes and Python.
 
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=akbarmohammadi70&amp;show_icons=true" alt="GitHub Stats"></p>
-
-
 ### find me here
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbar-mohammadi-12741616b/i)
