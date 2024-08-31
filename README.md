@@ -42,6 +42,8 @@ Expertise: Micro Service Management, CI/CD automation, Build/Release Management,
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=2231A2)
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Golang&logoColor=007ACC)
+![Django](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=2231A2)
+
 <!-- ![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=4479A1) -->
 
 ### IDEs:
