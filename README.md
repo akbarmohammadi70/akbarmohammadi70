@@ -17,7 +17,7 @@ Expertise: Micro Service Management, CI/CD automation, Build/Release Management,
 
 ### DevOps Skills:
 
-- Bash - Python
+- Bash - Python - Go - Java
 - Ansible 
 - Terraform 
 - Docker - DockerCompose
