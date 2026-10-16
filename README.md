@@ -1,6 +1,6 @@
 # Hi, I'm Akbar Mohammadi 👋
 
-### Senior Platform Engineering | DevOps Engineer | Site Reliability Engineer 
+### Senior Platform Engineer | DevOps Engineer | Site Reliability Engineer 
 
 **Building Reliable Infrastructure · Automating Everything · Exploring AI Infrastructure**
 
